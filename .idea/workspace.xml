@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2aa7cc28-a9bb-4b4f-8364-868b581c83e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\mySpace\spring-cloud-demo\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\aliyunRepository\repository" />
+        <option name="userSettingsFile" value="D:\aliyunRepository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kMmQYOguoxP870JXx3SJVeWXdo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringCloudRibbonServerApplication">
+    <configuration name="SpringCloudRibbonClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-ribbon-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zbh.example.springcloud.client.springcloudribbonclient.SpringCloudRibbonClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringCloudRibbonServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-cloud-ribbon-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zbh.example.springcloud.server.springcloudribbonserver.SpringCloudRibbonServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2aa7cc28-a9bb-4b4f-8364-868b581c83e3" name="Default Changelist" comment="" />
+      <created>1605518819317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605518819317</updated>
+      <workItem from="1605518825865" duration="1850000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1605519290358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605519290358</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="473" y="109" key="CommitChangelistDialog2" timestamp="1605519274610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="473" y="109" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605519274610" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605518974035">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605518974035" />
+    <state width="1921" height="440" key="GridCell.Tab.0.bottom" timestamp="1605519223580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="440" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605519223580" />
+    <state width="1921" height="440" key="GridCell.Tab.0.center" timestamp="1605519223580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="440" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605519223580" />
+    <state width="1921" height="440" key="GridCell.Tab.0.left" timestamp="1605519223580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="440" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605519223580" />
+    <state width="1921" height="440" key="GridCell.Tab.0.right" timestamp="1605519223580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="440" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605519223580" />
+    <state width="1921" height="440" key="GridCell.Tab.1.bottom" timestamp="1605519223581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="440" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605519223581" />
+    <state width="1921" height="440" key="GridCell.Tab.1.center" timestamp="1605519223580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="440" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605519223580" />
+    <state width="1921" height="440" key="GridCell.Tab.1.left" timestamp="1605519223580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="440" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605519223580" />
+    <state width="1921" height="440" key="GridCell.Tab.1.right" timestamp="1605519223581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="440" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605519223581" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1605518979565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605518979565" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605519307438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605519307438" />
+    <state x="355" y="357" key="new project wizard" timestamp="1605519088152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="355" y="357" key="new project wizard/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605519088152" />
+  </component>
+</project>
