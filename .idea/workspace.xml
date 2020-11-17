@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2aa7cc28-a9bb-4b4f-8364-868b581c83e3" name="Default Changelist" comment="" />
+    <list default="true" id="2aa7cc28-a9bb-4b4f-8364-868b581c83e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-cloud-ribbon-client/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-ribbon-client/target/classes/com/zbh/example/springcloud/client/springcloudribbonclient/SpringCloudRibbonClientApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-ribbon-client/target/test-classes/com/zbh/example/springcloud/client/springcloudribbonclient/SpringCloudRibbonClientApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-ribbon-server/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-ribbon-server/target/classes/com/zbh/example/springcloud/server/springcloudribbonserver/SpringCloudRibbonServerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-ribbon-server/target/test-classes/com/zbh/example/springcloud/server/springcloudribbonserver/SpringCloudRibbonServerApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-ribbon-client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-ribbon-client/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-ribbon-server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-ribbon-server/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605518819317</updated>
-      <workItem from="1605518825865" duration="1850000" />
+      <workItem from="1605518825865" duration="2043000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1605519290358</created>
@@ -100,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605519290358</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1605576364104</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605576364104</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,10 +130,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="473" y="109" key="CommitChangelistDialog2" timestamp="1605519274610">
+    <state x="473" y="109" key="CommitChangelistDialog2" timestamp="1605576350730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="473" y="109" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605519274610" />
+    <state x="473" y="109" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605576350730" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605518974035">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -156,10 +174,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605518979565" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605519307438">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605576359189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605519307438" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1605576359189" />
     <state x="355" y="357" key="new project wizard" timestamp="1605519088152">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
